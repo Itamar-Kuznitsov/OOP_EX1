@@ -7,9 +7,11 @@ In this task, we added to our UndoableStringBuilder class an option to organize 
 
 To do this, we used the Observer design pattern that we learned in one of the lectures during the semester.
 
-Observer design pattern deals with the problem of how an "observable object" can notify several independent and loosely coupled "observer objects" that it has changed, so that they may update themselves accordingly.
+Observer design pattern deals with the problem of how an "observable object" can notify several independent
+and loosely coupled "observer objects" that it has changed, so that they may update themselves accordingly.
 
-For this program we added Test class for checking the efficiency of the code. Using the JvmUtilities class for tracking the JVM functionality.
+For this program we added Test class for checking the efficiency of the code.
+Using the JvmUtilities class for tracking the JVM functionality.
 
 ## Getting Started
 ### Dependencies
